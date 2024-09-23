@@ -1,0 +1,7 @@
+C:\Users\tuana\OneDrive\Documents\C#\Quan Ly Ban Hang\Quan Ly Ban Hang\bin\Debug\Quan Ly Ban Hang.exe.config
+C:\Users\tuana\OneDrive\Documents\C#\Quan Ly Ban Hang\Quan Ly Ban Hang\bin\Debug\Quan Ly Ban Hang.exe
+C:\Users\tuana\OneDrive\Documents\C#\Quan Ly Ban Hang\Quan Ly Ban Hang\bin\Debug\Quan Ly Ban Hang.pdb
+C:\Users\tuana\OneDrive\Documents\C#\Quan Ly Ban Hang\Quan Ly Ban Hang\obj\Debug\Quan Ly Ban Hang.csproj.AssemblyReference.cache
+C:\Users\tuana\OneDrive\Documents\C#\Quan Ly Ban Hang\Quan Ly Ban Hang\obj\Debug\Quan Ly Ban Hang.csproj.CoreCompileInputs.cache
+C:\Users\tuana\OneDrive\Documents\C#\Quan Ly Ban Hang\Quan Ly Ban Hang\obj\Debug\Quan Ly Ban Hang.exe
+C:\Users\tuana\OneDrive\Documents\C#\Quan Ly Ban Hang\Quan Ly Ban Hang\obj\Debug\Quan Ly Ban Hang.pdb

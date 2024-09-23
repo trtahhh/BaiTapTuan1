@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tuana\\OneDrive\\Documents\\C#\\Quan Ly Ban Hang\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68A4D75A-BEFE-49DE-9FBA-B37EB57634FC}|Quan Ly Ban Hang\\Quan Ly Ban Hang.csproj|c:\\users\\tuana\\onedrive\\documents\\c#\\quan ly ban hang\\quan ly ban hang\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68A4D75A-BEFE-49DE-9FBA-B37EB57634FC}|Quan Ly Ban Hang\\Quan Ly Ban Hang.csproj|solutionrelative:quan ly ban hang\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68A4D75A-BEFE-49DE-9FBA-B37EB57634FC}|Quan Ly Ban Hang\\Quan Ly Ban Hang.csproj|c:\\users\\tuana\\onedrive\\documents\\c#\\quan ly ban hang\\quan ly ban hang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68A4D75A-BEFE-49DE-9FBA-B37EB57634FC}|Quan Ly Ban Hang\\Quan Ly Ban Hang.csproj|solutionrelative:quan ly ban hang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SanPham.cs",
+              "DocumentMoniker": "C:\\Users\\tuana\\OneDrive\\Documents\\C#\\Quan Ly Ban Hang\\Quan Ly Ban Hang\\SanPham.cs",
+              "RelativeDocumentMoniker": "Quan Ly Ban Hang\\SanPham.cs",
+              "ToolTip": "C:\\Users\\tuana\\OneDrive\\Documents\\C#\\Quan Ly Ban Hang\\Quan Ly Ban Hang\\SanPham.cs",
+              "RelativeToolTip": "Quan Ly Ban Hang\\SanPham.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T01:04:27.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tuana\\OneDrive\\Documents\\C#\\Quan Ly Ban Hang\\Quan Ly Ban Hang\\Program.cs",
+              "RelativeDocumentMoniker": "Quan Ly Ban Hang\\Program.cs",
+              "ToolTip": "C:\\Users\\tuana\\OneDrive\\Documents\\C#\\Quan Ly Ban Hang\\Quan Ly Ban Hang\\Program.cs",
+              "RelativeToolTip": "Quan Ly Ban Hang\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T01:00:27.61Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
